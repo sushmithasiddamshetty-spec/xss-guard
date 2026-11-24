@@ -1,0 +1,6 @@
+{
+  "name": "XSS GUARD – Interactive XSS Protection Simulator",
+  "description": "An interactive, safe cybersecurity education laboratory for understanding, simulating, and preventing Cross-Site Scripting (XSS) attacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
